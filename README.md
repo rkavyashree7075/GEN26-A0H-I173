@@ -2,7 +2,7 @@
 
 ## GEN26-A0H-I173
 ### Team Details
-#### **Team Name** <<INNOV4>> <br/>
+#### **INNOV4** <<INNOV4>> <br/>
 #### Team Members
 |         Role    |         👤 Name         |   🎓 Roll Number  |  ⚧️ Gender   |  🏫Department/Programme |Hostel/Dayscholar| 
 |:---------------:|:------------------------|:------------------:|:------------:|:------------------------:|:---------------:|
